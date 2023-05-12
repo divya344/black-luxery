@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_3595" data-name="Group 3595" transform="translate(-864 -19)">
+    <g id="Group_3593" data-name="Group 3593">
+      <g id="Group_3592" data-name="Group 3592">
+        <g id="Group_13" data-name="Group 13">
+          <g id="Group_12" data-name="Group 12" transform="translate(-334 -9)">
+            <g id="Group_8" data-name="Group 8" transform="translate(1070 9)" opacity="0">
+              <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(128 19)" fill="#ebebeb" stroke="#707070" stroke-width="1">
+                <rect width="24" height="24" stroke="none"/>
+                <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+              </g>
+            </g>
+          </g>
+          <path id="location_on_FILL0_wght500_GRAD0_opsz48" d="M13.871,11.2a1.325,1.325,0,0,0,.937-2.267,1.325,1.325,0,1,0-1.874,1.874A1.279,1.279,0,0,0,13.871,11.2Zm0,6.071A21.52,21.52,0,0,0,17.5,13.226a6.15,6.15,0,0,0,1.171-3.2,4.82,4.82,0,0,0-1.387-3.56,4.636,4.636,0,0,0-3.41-1.387,4.636,4.636,0,0,0-3.41,1.387,4.82,4.82,0,0,0-1.387,3.56,6.059,6.059,0,0,0,1.2,3.2A23.392,23.392,0,0,0,13.871,17.273Zm0,1.687a24.946,24.946,0,0,1-4.563-4.816A7.506,7.506,0,0,1,7.8,10.021,5.872,5.872,0,0,1,9.627,5.487a6.184,6.184,0,0,1,8.489,0,5.872,5.872,0,0,1,1.827,4.535,7.506,7.506,0,0,1-1.508,4.123A24.946,24.946,0,0,1,13.871,18.96ZM13.871,10.021Z" transform="translate(862.2 19.2)" fill="#e6483d"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
